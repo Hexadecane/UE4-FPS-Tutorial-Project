@@ -1,3 +1,5 @@
-# Unreal Engine 4 FPS Tutorial Project
+## Unreal Engine 4 FPS Tutorial Project
 
-Developed with Unreal Engine 4
+Created by Hxdce
+
+TODO: Finish this readme!
